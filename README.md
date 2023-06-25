@@ -2,7 +2,7 @@
 
 ## Demo
 
-[https://blog-8a0f5.firebaseapp.com/](https://blog-8a0f5.firebaseapp.com/)
+### https://firebase-redux-react-blog.vercel.app/
 
 <img src="https://github.com/sauravhathi/firebase-redux-react-blog/assets/61316762/81c50867-430f-4c2e-806c-57b59d64c4cc" alt="login/signup" width="600">
 
